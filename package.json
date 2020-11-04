@@ -1,0 +1,28 @@
+{
+  "name": "College-List",
+  "version": "1.0.0",
+  "description": "college and student list",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Anshul-Garg-15/College-List"
+  },
+  "author": "Anshul Garg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anshul-Garg-15/College-List/issues"
+  },
+  "homepage": "https://github.com/Anshul-Garg-15/College-List#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "mongoose": "^5.10.0",
+    "nodemon": "^2.0.4"
+  }
+}
